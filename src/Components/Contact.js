@@ -28,7 +28,7 @@ class Contact extends Component {
             <div className="ten columns">
 
                   <p className="lead">{message}</p>
-                  <p className="contact-warning">This form isn't working as the moment.</p>
+                  <p className="contact-warning">This form isn't working as the moment. Please e-mail me, or give me a call!</p>
             </div>
 
          </div>

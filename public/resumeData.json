@@ -100,30 +100,51 @@
       "skills":[
         {
           "name":"Git",
-          "level":"80%"
+          "description":"",
+          "image":"git-original.svg"
         },
         {
-          "name":"NodeJs",
-          "level":"70%"
+          "name":"GitHub",
+          "description":"",
+          "image":"github-original.svg"
         },
         {
-          "name":"ReactJs",
-          "level":"60%"
+          "name":"JavaScript",
+          "description":"",
+          "image":"javascript.svg"
         },
         {
-          "name":"CSS",
-          "level":"80%"
+          "name":"React Js",
+          "description":"",
+          "image":"react-original.svg"
         },
         {
-          "name":"HTML",
-          "level":"90%"
+        "name":"Node.js",
+        "description":"",
+        "image":"nodejs-original.svg"
         },
         {
-          "name":"Javascript",
-          "level":"70%"
+          "name":"HTML5",
+          "description":"",
+          "image":"html5-original.svg"
+        },
+        {
+          "name":"CSS3",
+          "description":"",
+          "image":"css3-original.svg"
+        },
+        {
+          "name":"Bootstrap 4",
+          "description":"",
+          "image":"bootstrap-plain.svg"
+        },
+        {
+          "name":"MySQL",
+          "description":"",
+          "image":"mysql.png"
         }
-      ]
-    },
+      ] 
+  },
     "portfolio":{
       "projects": [
         {

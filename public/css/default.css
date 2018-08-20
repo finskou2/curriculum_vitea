@@ -169,7 +169,7 @@ blockquote {
 blockquote:before {
    content: "\201C";
    opacity: 0.45;
-   font-size: 80px;
+   font-size: 60px;
    line-height: 0px;
    margin: 0;
    font-family: arial, sans-serif;
@@ -186,7 +186,7 @@ blockquote p {
 }
 blockquote cite {
    display: block;
-   font-size: 12px;
+   font-size: 28px;
    font-style: normal;
    line-height: 18px;
 }
