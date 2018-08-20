@@ -2,7 +2,7 @@
     "main": {
       "name":"Leila Rhazaoui",
       "occupation":"Web developper",
-      "description": "I am a week away from finishing my intense professionnal reconversion in Web/Software developpement, trained in Front-End, NodeJS, Javascript, ReactJS, at the Wild Code School based in Paris. ",
+      "description": "I am in a complete professionnal reconversion in Web/Software developpement, trained in Front-End, NodeJS, Javascript, ReactJS, at the Wild Code School based in Paris. ",
       "image":"profilepic.jpg",
       "bio":"I am a musician at heart, with an adventurous spirit, and a new found passion for coding! I started my professionnal life as a bartender, and explored more, before I finally found my way and love for computer programming.  I have been learning web development with full commitment and passion, driven by the need to work with something I'm really intersted in. I am actively searching to join a team to gain some work experience, train, and learn more about new languages, frameworks, technos, etc.. My world travelling experiences has given me an open mind, an ease to adapt in all situations, and a strong team spirit.",
       "contactmessage":"Have a question? or a project? I'd love to hear from you! Hit me up! ",
@@ -93,7 +93,7 @@
         {
           "company":"Médecins du Monde",
           "title":"Donor Recruiter",
-          "years":"Mebruary 2010 - August 2010 ",
+          "years":"February 2010 - August 2010 ",
           "description":"Paris, France"
         }
       ],
