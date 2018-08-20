@@ -294,7 +294,7 @@ ul#nav li.current a { color: #F06000; }
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
-
+/* 
 .bars {
 	width: 95%;
 	float: left;
@@ -354,7 +354,7 @@ ul#nav li.current a { color: #F06000; }
 .html5 {
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
-}
+} */
 
 /*
 @-moz-keyframes git {
