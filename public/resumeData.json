@@ -1,183 +1,184 @@
 {
-    "main": {
-      "name":"Leila Rhazaoui",
-      "occupation":"Web developper",
-      "description": "I am in a complete professionnal reconversion in Web/Software developpement, trained in Front-End, NodeJS, Javascript, ReactJS, at the Wild Code School based in Paris. ",
-      "image":"profilepic.jpg",
-      "bio":"I was born in the U.K, and grew up in Guinea, Niger, Cameroun, Senegal and Morocco thanks to my father's position in the United Nations (UNDP) and his assignements in these countriesk, which has given me the skills to learn new languages and adapt, being bilingual English/French since birth. I started my professional life as a bartender, and tried different paths, before  finally finding my way and love for computer programming. I have been learning web development with full commitment and passion, driven by the need to work with something I'm really intersted in. I am actively searching to join a team to gain some work experience, train, and learn more about new languages, frameworks, technos, etc.. My world travelling experiences has given me an open mind, an ease to adapt in all situations, and a strong team spirit.",
-      "contactmessage":"Have a question? or a project? I'd love to hear from you! Hit me up! ",
-      "email": "lelarhaz@gmail.com",
-      "phone": "+33 6 19 13 24 00",
-      "address":{
-        "street":"37 rue Lamarck",
-        "city":"Paris",
-        "state":"",
-        "zip": "75018"
+  "main": {
+    "name":"Leila Rhazaoui",
+    "occupation":"Développeur Web",
+    "description": "Véritable passionnée pour le code et le développement informatique, j'en ai fait ma reconversion professionnelle. Mon domaine de compétences comprend : la création/maintenance/reprise de sites internet (développement web), avec une spécialité dans l’intégration HTML/CSS sur mesure, l’accessibilité, le développement front-end, la qualité web et le responsive. Mon but serait de devenir Fullstack.",
+    "image":"profilepic.jpg",
+    "bio":" Née en Angleterre, j'ai grandis en Afrique ( Guinée, Niger, Cameroun, Sénégal et Maroc) de par la position et le travail de mon père
+    aux Nations Unis et à ses missions dans ces pays, ce qui m'a donné la capacité et la facilité d'apprendre et de m'adapter à de nouvelles langues. 
+    Etant bilingue Anglais/Français depuis ma naissance, j'ai débuté ma vie professionnelle en tant que Barmaid, et j'ai aussi essayer d'autres chemins, 
+    avant de trouver ma vocation et passion dans l'informatique. J'ai étudiée le développement web avec passion, motivée par la nécessité de travailler
+    dans un domaine qui m'intéresse beaucoup.
+    Je cherche activement à rejoindre une équipe pour acquérir de l'expérience de travail, me former et en apprendre davantage sur les nouvelles langues 
+    et les nouveaux frameworks , technos, etc. Mes expériences de voyages dans le monde m’ont donné une ouverture d’esprit, une facilité d’adaptation 
+    à toutes les situations et un fort esprit d’équipe.",
+    "contactmessage":"Have a question? or a project? I'd love to hear from you! Hit me up! ",
+    "email": "lelarhaz@gmail.com",
+    "phone": "+33 6 19 13 24 00",
+    "address":{
+      "street":"37 rue Lamarck",
+      "city":"Paris",
+      "state":"",
+      "zip": "75018"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/Finskou",
+        "className":"fa fa-facebook"
       },
-      "website": "",
-      "resumedownload":"",
-      "social":[
-        {
-          "name":"facebook",
-          "url":"http://facebook.com/Finskou",
-          "className":"fa fa-facebook"
-        },
-        {
-          "name":"twitter",
-          "url":"http://twitter.com/Finskou",
-          "className":"fa fa-twitter"
-        },
-        {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/leila-rhazaoui/",
-          "className":"fa fa-linkedin"
-        },
-        {
-          "name":"instagram",
-          "url":"http://instagram.com/_finskou_",
-          "className":"fa fa-instagram"
-        },
-        {
-          "name":"github",
-          "url":"http://github.com/Finskou",
-          "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://skype.com",
-          "className":"fa fa-skype"
-        }
-      ]
-    },
-    "resume":{
-      "skillmessage":"Here is a list of the few techs I've loved to learn, and learned to love!",
-      "education":[
-        {
-          "school":"Wild Code School",
-          "degree":"Software and web developper",
-          "graduated":"2018",
-          "description":"We have had an intense training in web, software and application developpement. We have focused and trained mainly in HTML/CSS, Javascript, ReactJS, NodeJS, Git. I have taken the opportunity, during this time, to explore a bit more : MySql, C++, Bootstrap, Phpmyadmin, and more. I have truely found a passion for coding."
-        },
-        {
-          "school":"Centre Europeen de Formation",
-          "degree":"CAP Culinary studies",
-          "graduated":"",
-          "description":"I do love to code, and, as a food enthusiast, I have followed a long distance training in culinary arts a few years ago. I have work experience in the kitchen, and I wanted to push my love and curiosity for food even further."
-        },
-        {
-          "school":"Ashram de Yoga Sivananda",
-          "degree":"TTC - Teacher Training Course",
-          "graduated":"2014",
-          "description":" Daughter of a Yogi, I have always been surrounded by this peacefull practice. Through this intensive training, in Neuville-aux-Bois, France, I have discovered many things. I truely am gratefull for this experience, as it has now a incredible positive effect in my life. I am now able to teach others the wonders of Sivananda Yoga, whether it be the physical, the mental, or the spiritual approach. This comes in very handy when stressfull situations occure, in the personal and professional life."
-        }
-      ],
-      "work":[
-        {
-          "company":"Mc Bride's Irish Pub",
-          "title":"Barman of steel ",
-          "years":"November 2015 - May 2017 ",
-          "description":"As I am in a full professionnal reconversion, I can only share my past experiences. Most of the being a top of the notch Bartender ! My last bartending experience has been Mc Bride's, located in Chatelet les Halles, Paris. Taking care of the customers, making sure all goes well, training the new employees ; it has been a great ride. Through this, and others work experiences, I have learned how to cope under extreme pressure and rushs. I have acquiered a lot of patience, team spirit, adaptability to different situations, and much more."
-        },
-        {
-          "company":"Ashram Yoga Sivananda",
-          "title":"Cook ~ teaching assistant ~ translator ",
-          "years":"July 2014 - February 2015 ",
-          "description":"I have been very fortunate to be part of the staff during a few intense TTCs (Teacher Training Course) in the Ashram in France, as well as in Tyrol, Austria. I would cook (and/or help) everyday, assist the teachers when assistance was needed, as well as a live translator (French to English, and vice versa) for the international TTC."
-        },
-        {
-          "company":"King William IV",
-          "title":"Barman Sup",
-          "years":"May 2011 - June 2012 ",
-          "description":"London, U.K"
-        },
-        {
-          "company":"Médecins du Monde",
-          "title":"Donor Recruiter",
-          "years":"February 2010 - August 2010 ",
-          "description":"Paris, France"
-        }
-      ],
-      "skills":[
-        {
-          "name":"Git",
-          "description":"",
-          "image":"git-original.svg"
-        },
-        {
-          "name":"GitHub",
-          "description":"",
-          "image":"github-original.svg"
-        },
-        {
-          "name":"JavaScript",
-          "description":"",
-          "image":"javascript.svg"
-        },
-        {
-          "name":"React Js",
-          "description":"",
-          "image":"react-original.svg"
-        },
-        {
-        "name":"Node.js",
-        "description":"",
-        "image":"nodejs-original.svg"
-        },
-        {
-          "name":"HTML5",
-          "description":"",
-          "image":"html5-original.svg"
-        },
-        {
-          "name":"CSS3",
-          "description":"",
-          "image":"css3-original.svg"
-        },
-        {
-          "name":"Bootstrap 4",
-          "description":"",
-          "image":"bootstrap-plain.svg"
-        },
-        {
-          "name":"MySQL",
-          "description":"",
-          "image":"mysql.png"
-        }
-      ] 
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/Finskou",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/leila-rhazaoui/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/_finskou_",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Finskou",
+        "className":"fa fa-github"
+      }
+    ]
   },
-    "portfolio":{
-      "projects": [
-        {
-          "title":"Wildo Codak",
-          "category":"A first school project, a photographers blog. Done only with HTML/CSS/Bootstrap. We have mostly worked together, on the same computer.",
-          "image":"../logo.png",
-          "url":"http://www.capucineleclerc.com/wildocodakproject/index.html"
-        },
-        {
-          "title":"Wild Source",
-          "category":"(offline now // github link) This is a teamwork project for the Wild Code School. It is a platform with an intuitive interface for students to have an easy access to all the lessons, and a simplified back-office for the trainers to easily update their content. ",
-          "image":"../wild_logo.png",
-          "url":"https://github.com/WildCodeSchool/paris-0218-wild-source"
-        },
-        {
-          "title":"Siouplait",
-          "category":"Final project, an app for quick service in ordering food and drinks. (best seen in phone view)",
-          "image":"../logo_main2.png",
-          "url":"https://siouplait.github.io/order/"
-        }
-      ]
-    },
-    "testimonials":{
-      "testimonials":[
-        {
-          "text":"She might be fresh out of coding school, but she knows her way. I have been working along side her, and her energy and positivity is infectious! She's a great team player.",
-          "user":"Skander Kasbaoui"
-        },
-        {
-          "text":"A very passionnate hard working person. I can tell you that when it comes to dealing with pressure, and rushes, she has got everything under control. Great add to a team!",
-          "user":"Julien Barlet"
-        }
-      ]
-    }
+  "resume":{
+    "skillmessage":"Voici une liste de quelques technos que j'ai adoré apprendre, et appris à adorer!",
+    "education":[
+      {
+        "school":"Wild Code School",
+        "degree":"Web Designer",
+        "graduated":"2018",
+        "description":"Nous avons suivi une formation intensive en développement Web et applications. Nous nous sommes principalement concentrés sur HTML / CSS, Javascript, ReactJS, NodeJS, Git. Pendant ce temps, j'ai saisi l'occasion d'explorer un peu plus: MySql, C ++, Bootstrap, Phpmyadmin, etc. "
+      },
+      {
+        "school":"Centre Europeen de Formation",
+        "degree":"CAP Cuisine",
+        "graduated":"",
+        "description":"En tant qu'amateur de cuisine, j'ai suivi une formation longue distance en arts culinaires il y a quelques années. J'ai une expérience professionnelle dans la cuisine et je voulais pousser plus loin mon amour et ma curiosité pour la nourriture."
+      },
+      {
+        "school":"Ashram de Yoga Sivananda",
+        "degree":"TTC - Teacher Training Course",
+        "graduated":"2014",
+        "description":" Daughter of a Yogi, I have always been surrounded by this peacefull practice. Through this intensive training, in Neuville-aux-Bois, France, I have discovered many things. I truely am gratefull for this experience, as it has now a incredible positive effect in my life. I am now able to teach others the wonders of Sivananda Yoga, whether it be the physical, the mental, or the spiritual approach. This comes in very handy when stressfull situations occure, in the personal and professional life."
+      }
+    ],
+    "work":[
+      {
+        "company":"Mc Bride's Irish Pub",
+        "title":"Barman of steel ",
+        "years":"November 2015 - May 2017 ",
+        "description":"As I am in a full professionnal reconversion, I can only share my past experiences. Most of the being a top of the notch Bartender ! My last bartending experience has been Mc Bride's, located in Chatelet les Halles, Paris. Taking care of the customers, making sure all goes well, training the new employees ; it has been a great ride. Through this, and others work experiences, I have learned how to cope under extreme pressure and rushs. I have acquiered a lot of patience, team spirit, adaptability to different situations, and much more."
+      },
+      {
+        "company":"Ashram Yoga Sivananda",
+        "title":"Cook ~ teaching assistant ~ translator ",
+        "years":"July 2014 - February 2015 ",
+        "description":"I have been very fortunate to be part of the staff during a few intense TTCs (Teacher Training Course) in the Ashram in France, as well as in Tyrol, Austria. I would cook (and/or help) everyday, assist the teachers when assistance was needed, as well as a live translator (French to English, and vice versa) for the international TTC."
+      },
+      {
+        "company":"King William IV",
+        "title":"Barman Sup",
+        "years":"May 2011 - June 2012 ",
+        "description":"London, U.K"
+      },
+      {
+        "company":"Médecins du Monde",
+        "title":"Donor Recruiter",
+        "years":"February 2010 - August 2010 ",
+        "description":"Paris, France"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"",
+        "image":"git-original.svg"
+      },
+      {
+        "name":"GitHub",
+        "description":"",
+        "image":"github-original.svg"
+      },
+      {
+        "name":"JavaScript",
+        "description":"",
+        "image":"javascript.svg"
+      },
+      {
+        "name":"React Js",
+        "description":"",
+        "image":"react-original.svg"
+      },
+      {
+      "name":"Node.js",
+      "description":"",
+      "image":"nodejs-original.svg"
+      },
+      {
+        "name":"HTML5",
+        "description":"",
+        "image":"html5-original.svg"
+      },
+      {
+        "name":"CSS3",
+        "description":"",
+        "image":"css3-original.svg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "description":"",
+        "image":"bootstrap-plain.svg"
+      },
+      {
+        "name":"MySQL",
+        "description":"",
+        "image":"mysql.png"
+      }
+    ] 
+},
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Wildo Codak",
+        "category":"A first school project, a photographers blog. Done only with HTML/CSS/Bootstrap. We have mostly worked together, on the same computer.",
+        "image":"../logo.png",
+        "url":"http://www.capucineleclerc.com/wildocodakproject/index.html"
+      },
+      {
+        "title":"Wild Source",
+        "category":"(offline now // github link) This is a teamwork project for the Wild Code School. It is a platform with an intuitive interface for students to have an easy access to all the lessons, and a simplified back-office for the trainers to easily update their content. ",
+        "image":"../wild_logo.png",
+        "url":"https://github.com/WildCodeSchool/paris-0218-wild-source"
+      },
+      {
+        "title":"Siouplait",
+        "category":"Final project, an app for quick service in ordering food and drinks. (best seen in phone view)",
+        "image":"../logo_main2.png",
+        "url":"https://siouplait.github.io/order/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"She might be fresh out of coding school, but she knows her way. I have been working along side her, and her energy and positivity is infectious! She's a great team player.",
+        "user":"Skander Kasbaoui"
+      },
+      {
+        "text":"A very passionnate hard working person. I can tell you that when it comes to dealing with pressure, and rushes, she has got everything under control. Great add to a team!",
+        "user":"Julien Barlet"
+      }
+    ]
   }
-  
+}
