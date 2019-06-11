@@ -9,7 +9,7 @@
       "email": "lelarhaz@gmail.com",
       "phone": "+33 6 19 13 24 00",
       "address":{
-        "street":"37 rue Lamarck",
+        "street":"Rue Lamarck",
         "city":"Paris",
         "state":"",
         "zip": "75018"
@@ -50,13 +50,13 @@
       ]
     },
     "resume":{
-      "skillmessage":"Here is a list of the few techs I've loved to learn, and learned to love!",
+      "skillmessage":"Voici une liste de quelques technos que j'ai adorée apprendre, et appris à adorer!",
       "education":[
         {
           "school":"Wild Code School",
-          "degree":"Software and web developper",
+          "degree":"Développeur Web et Applications Mobiles",
           "graduated":"2018",
-          "description":"We have had an intense training in web, software and application developpement. We have focused and trained mainly in HTML/CSS, Javascript, ReactJS, NodeJS, Git. I have taken the opportunity, during this time, to explore a bit more : MySql, C++, Bootstrap, Phpmyadmin, and more. I have truely found a passion for coding."
+          "description":"Nous avons suivi une formation intensive en développement Web, logiciels et applications. Nous nous sommes principalement concentrés sur HTML / CSS, Javascript, ReactJS, NodeJS, Git, ootstrap. Pendant ce temps, j'ai saisi l'occasion d'explorer un peu plus: MySql, Php, Phpmyadmin, etc. J'ai vraiment trouvé une passion pour le code."
         },
         {
           "school":"Centre Europeen de Formation",
