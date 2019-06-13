@@ -53,47 +53,47 @@
       "skillmessage":"Voici une liste de quelques technos que j'ai adorée apprendre, et appris à adorer!",
       "education":[
         {
-          "school":"Wild Code School",
+          "school":"AFPA Créteil",
           "degree":"Développeur Web et Applications Mobiles",
-          "graduated":"2018",
-          "description":"Nous avons suivi une formation intensive en développement Web, logiciels et applications. Nous nous sommes principalement concentrés sur HTML / CSS, Javascript, ReactJS, NodeJS, Git, ootstrap. Pendant ce temps, j'ai saisi l'occasion d'explorer un peu plus: MySql, Php, Phpmyadmin, etc. J'ai vraiment trouvé une passion pour le code."
+          "graduated":"Décembre 2019",
+          "description":"{ En construction }"
         },
         {
-          "school":"Centre Europeen de Formation",
-          "degree":"CAP Culinary studies",
-          "graduated":"",
-          "description":"I do love to code, and, as a food enthusiast, I have followed a long distance training in culinary arts a few years ago. I have work experience in the kitchen, and I wanted to push my love and curiosity for food even further."
+          "school":"Wild Code School",
+          "degree":"Web designer",
+          "graduated":"2018",
+          "description":"Nous avons suivi une formation intensive en développement Web, logiciels et applications. Nous nous sommes principalement concentrés sur HTML / CSS, Javascript, ReactJS, NodeJS, Git, Bootstrap. J'ai aussi saisi l'occasion d'explorer un peu plus en mon temps libre: MySql, Php, Phpmyadmin, etc. J'ai vraiment trouvé une passion pour le code."
         },
         {
           "school":"Ashram de Yoga Sivananda",
           "degree":"TTC - Teacher Training Course",
           "graduated":"2014",
-          "description":" Daughter of a Yogi, I have always been surrounded by this peacefull practice. Through this intensive training, in Neuville-aux-Bois, France, I have discovered many things. I truely am gratefull for this experience, as it has now a incredible positive effect in my life. I am now able to teach others the wonders of Sivananda Yoga, whether it be the physical, the mental, or the spiritual approach. This comes in very handy when stressfull situations occure, in the personal and professional life."
+          "description":"Au cours de cette formation intensive, à Neuville-aux-Bois, en France, outre m'être perfectionner dans divers domaines, j'ai aussi découvert beaucoup de choses. Je suis maintenant capable d'enseigner aux autres les merveilles du yoga Sivananda, qu'il s'agisse d'une approche physique, mentale ou spirituelle. Cela s'avère très utile lorsque des situations stressantes se produisent, dans la vie personnelle et professionnelle."
         }
       ],
       "work":[
         {
           "company":"Mc Bride's Irish Pub",
-          "title":"Barman of steel ",
-          "years":"November 2015 - May 2017 ",
-          "description":"As I am in a full professionnal reconversion, I can only share my past experiences. Most of the being a top of the notch Bartender ! My last bartending experience has been Mc Bride's, located in Chatelet les Halles, Paris. Taking care of the customers, making sure all goes well, training the new employees ; it has been a great ride. Through this, and others work experiences, I have learned how to cope under extreme pressure and rushs. I have acquiered a lot of patience, team spirit, adaptability to different situations, and much more."
+          "title":"Barmaid ",
+          "years":"Novembre 2015 - Mai 2017 ",
+          "description":" Etant en pleine reconversion professionnelle, je ne peux que partager mes expériences passées. Ma dernière expérience de barman a été Mc Bride's, située à Châtelet les Halles, à Paris. Grâce à cette expérience de travail, et à d’autres,  j’ai appris à pouvoir faire face à une pression extrême et à gérer le stresse avec calme et aisance. J'ai acquis beaucoup de patience, d'esprit d'équipe, d'adaptabilité à différentes situations et bien plus encore."
         },
         {
           "company":"Ashram Yoga Sivananda",
-          "title":"Cook ~ teaching assistant ~ translator ",
-          "years":"July 2014 - February 2015 ",
-          "description":"I have been very fortunate to be part of the staff during a few intense TTCs (Teacher Training Course) in the Ashram in France, as well as in Tyrol, Austria. I would cook (and/or help) everyday, assist the teachers when assistance was needed, as well as a live translator (French to English, and vice versa) for the international TTC."
+          "title":"Traductrice Anglais/Français ~ Assistant Professeur ",
+          "years":"Juillet 2014 - Février 2015 ",
+          "description":" J'ai eu la grande chance de faire partie du personnel lors de quelques cours de formation à l'enseignement intensifs à l'ashram en France, ainsi qu'au Tyrol, en Autriche. J'allais cuisiner (et / ou aider) tous les jours, aider les enseignants en cas de besoin, ainsi que traduire en direct (français vers anglais et vice versa) pour le TTC international."
         },
         {
           "company":"King William IV",
           "title":"Barman Sup",
-          "years":"May 2011 - June 2012 ",
-          "description":"London, U.K"
+          "years":"Mai 2011 - Juin 2012 ",
+          "description":"Londres, U.K"
         },
         {
           "company":"Médecins du Monde",
-          "title":"Donor Recruiter",
-          "years":"February 2010 - August 2010 ",
+          "title":"Recruteur de Donateurs",
+          "years":"Février 2010 - Aout 2010 ",
           "description":"Paris, France"
         }
       ],
@@ -142,6 +142,16 @@
           "name":"MySQL",
           "description":"",
           "image":"mysql.png"
+        },
+        {
+          "name":"Php",
+          "description":"",
+          "image":"php.png"
+        },
+        {
+          "name":"Wordpress",
+          "description":"",
+          "image":"W.png"
         }
       ] 
   },
