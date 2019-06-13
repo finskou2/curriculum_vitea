@@ -159,19 +159,19 @@
       "projects": [
         {
           "title":"Wildo Codak",
-          "category":"A first school project, a photographers blog. Done only with HTML/CSS/Bootstrap. We have mostly worked together, on the same computer.",
+          "category":"Un premier projet avec la Wild Code School, un blog de photograph. Nous avons travaillés en équipe, c'était le tout premier projet réalisé, étant très débutant.",
           "image":"../logo.png",
           "url":"http://www.capucineleclerc.com/wildocodakproject/index.html"
         },
         {
           "title":"Wild Source",
-          "category":"(offline now // github link) This is a teamwork project for the Wild Code School. It is a platform with an intuitive interface for students to have an easy access to all the lessons, and a simplified back-office for the trainers to easily update their content. ",
+          "category":"(offline maintenant // github link) Ceci est un projet de travail d'équipe à la Wild Code School. Il s’agit d’une plate-forme dotée d’une interface intuitive permettant aux étudiants d’accéder facilement à toutes les leçons, et d’un back-office simplifié permettant aux formateurs de mettre facilement à jour leur contenu. ",
           "image":"../wild_logo.png",
           "url":"https://github.com/WildCodeSchool/paris-0218-wild-source"
         },
         {
           "title":"Siouplait",
-          "category":"Final project, an app for quick service in ordering food and drinks. (best seen in phone view)",
+          "category":"Projet final, une application pour un service rapide dans la commande de nourriture et de boissons. (mieux vu en mode téléphone)",
           "image":"../logo_main2.png",
           "url":"https://siouplait.github.io/order/"
         }
@@ -180,12 +180,12 @@
     "testimonials":{
       "testimonials":[
         {
-          "text":"She might be fresh out of coding school, but she knows her way. I have been working along side her, and her energy and positivity is infectious! She's a great team player.",
-          "user":"Skander Kasbaoui"
+          "text":" (...)",
+          "user":"S"
         },
         {
-          "text":"A very passionnate hard working person. I can tell you that when it comes to dealing with pressure, and rushes, she has got everything under control. Great add to a team!",
-          "user":"Julien Barlet"
+          "text":"(...)",
+          "user":"J"
         }
       ]
     }
